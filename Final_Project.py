@@ -40,7 +40,10 @@ for season_nr in sorted(series['episodes']):
         
 print(rating_avg)
 
-'''
+
+
+
+
 
 
 #series = ia.get_movie('5770786')
@@ -147,5 +150,3 @@ print('test',s)
 print(count)
     
     
-
-'''
